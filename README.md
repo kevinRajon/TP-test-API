@@ -13,4 +13,4 @@ Une fois les tests réalisés, nous automatisons ceux-ci afin de procéder à de
 <br/>
 L'API comprend 7 modules. Voici un exemple des cas de test mis en place pour un des modules.
 <br/>
-
+![](tableur.png)
